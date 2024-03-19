@@ -1,9 +1,12 @@
 {
-  "name": "calculator",
+  "name": "ozil-calculator-cmd",
   "version": "1.0.0",
   "description": "A simple calculator with TS, Node JS and Inquirer,",
   "main": "index.js",
   "type": "module",
+  "bin": {
+    "calculator": "index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

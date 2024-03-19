@@ -14,3 +14,14 @@ Inquirer download kare ge (inquirer ek module hai jo user se input leta hai)
 google pe search kare ge inquirer npm 
 aur phr install 
 npm i inquirer / npm install inquirer
+
+#! /usr/bin/env node 
+is line k operating system determine krta hai k kon si path k oper interpreter ko use krte howe yeah chalana hai. . 
+
+package.json me ja k "bin" : file ka name 
+npm me login
+publish krna hai 
+
+(package ka name unique hona chahye)
+
+npm publish
