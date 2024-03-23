@@ -1,16 +1,14 @@
 {
-  "name": "ozil-calculator-cmd",
+  "name": "ozil-number-guessing-game",
   "version": "1.0.0",
-  "description": "A simple calculator with TS, Node JS and Inquirer,",
+  "description": "A random number guessing game ",
   "main": "index.js",
   "type": "module",
-  "bin": {
-    "calculator": "index.js"
-  },
+  "bin" : "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Ozil",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "inquirer": "^9.2.16"
